@@ -1,4 +1,4 @@
-# Awesome-Quadruped-with-Arm-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
+# Awesome-Quadruped-with-Manipulator-Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
 
 ## 🦾 Basic Info
 This repository collects **academic papers and open-source projects** related to **quadruped robots equipped with manipulators (arms)**. The entries are categorized by **task type**, such as manipulation, locomotion, and whole-body control.
@@ -25,6 +25,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 ---
 
 ## 🦿 Whole-Body Control
+- [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
 - [arXiv 2025.05] **Q-WBC**: Unified Whole-Body Controller for Quadrupeds with Manipulators. [🌟Code](https://github.com/author/q-wbc)
 - [ICRA 2024] **ArmDog**: Coordinated Locomotion and Arm Manipulation on a Real Quadruped Platform.
 
