@@ -12,15 +12,15 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## 📚 Table of Contents
 
-- [Awesome-Quadruped-with-Arm-Learning](#awesome-quadruped-with-arm-learning)
-  - [Whole-Body Control](#whole-body-control)
-  - [Locomotion and Navigation](#locomotion-and-navigation)
-  - [Arm Manipulation](#arm-manipulation)
-  - [Sim-to-Real Transfer](#sim-to-real-transfer)
-  - [Simulation Benchmarks](#simulation-benchmarks)
-  - [Hardware Design](#hardware-design)
-  - [Teleoperation and Human-Robot Interaction](#teleoperation-and-human-robot-interaction)
-  - [Multimodal Perception and Learning](#multimodal-perception-and-learning)
+- [Awesome-Quadruped-with-Arm-Learning](##awesome-quadruped-with-arm-learning)
+  - [Whole-Body Control](##whole-body-control)
+  - [Locomotion and Navigation](##locomotion-and-navigation)
+  - [Arm Manipulation](##arm-manipulation)
+  - [Sim-to-Real Transfer](##sim-to-real-transfer)
+  - [Simulation Benchmarks](##simulation-benchmarks)
+  - [Hardware Design](##hardware-design)
+  - [Teleoperation and Human-Robot Interaction](##teleoperation-and-human-robot-interaction)
+  - [Multimodal Perception and Learning](##multimodal-perception-and-learning)
 
 ---
 
