@@ -3,7 +3,7 @@
 ## 🦾 Basic Info
 This repository collects **academic papers and open-source projects** related to **quadruped robots equipped with manipulators (arms)**. The entries are categorized by **task type**, such as manipulation, locomotion, and whole-body control.
 
-- 📌 **Real robot experiments** are highly preferred.
+<!-- - 📌 **Real robot experiments** are highly preferred. -->
 - 🌟 Papers or projects with **open-sourced code** are marked with a star.
 
 Feel free to open a pull request for adding new papers, datasets, or codebases related to quadruped robots with arms.
@@ -14,7 +14,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 - [Awesome-Quadruped-with-Arm-Learning](##awesome-quadruped-with-arm-learning)
   - [Whole-Body Control](##whole-body-control)
-  - [Locomotion and Navigation](##locomotion-and-navigation)
+  - [Locomotion and Navigation](##objects-grasping)
   - [Arm Manipulation](##arm-manipulation)
   - [Sim-to-Real Transfer](##sim-to-real-transfer)
   - [Simulation Benchmarks](##simulation-benchmarks)
@@ -24,12 +24,30 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ---
 
-## 🦿 Whole-Body Control
+## 🦿 With Whole-Body Control
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
-- [arXiv 2025.05] **Q-WBC**: Unified Whole-Body Controller for Quadrupeds with Manipulators. [🌟Code](https://github.com/author/q-wbc)
-- [ICRA 2024] **ArmDog**: Coordinated Locomotion and Arm Manipulation on a Real Quadruped Platform.
+- [arXiv 2025.05](https://arxiv.org/abs/2505.20829) **Learning Unified Force and Position Control for Legged Loco-Manipulation.** [🌐Website](https://unified-force.github.io/) 
+- [ICRA 2025](https://arxiv.org/abs/2411.06782) **## QuadWBG: Generalizable Quadrupedal Whole-Body Grasping.** [🌐Website](https://quadwbg.github.io/)
+- [CoRL 2024](https://arxiv.org/abs/2407.10353) **UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers.** [🌐Website](https://umi-on-legs.github.io/), [🌟Code](https://github.com/real-stanford/umi-on-legs)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.00231) **Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models.** [🌐Website](https://helpful-doggybot.github.io/), [🌟Code](https://github.com/WooQi57/Helpful-Doggybot)
+- [arXiv 2024.09](https://arxiv.org/abs/2409.19920) **Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion.** [🌐Website](https://playful-doggybot.github.io/)
+- [arXiv 2024.03](https://arxiv.org/abs/2403.17367v4) **RoboDuet: Whole-body Legged Loco-Manipulation with Cross-Embodiment Deployment.** [🌐Website](https://locomanip-duet.github.io/), [🌟Code](https://github.com/locomanip-duet/RoboDuet)
+- [arXiv 2024.09](https://arxiv.org/abs/2409.16048) **Whole-body End-Effector Pose Tracking.** [🌐Website](https://leggedrobotics.github.io/wholebody-pose-control/)
+- [ECCV 2024](https://arxiv.org/abs/2405.01527) **Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation.** [🌐Website](https://homangab.github.io/track2act/), [🌟Code](https://github.com/homangab/Track-2-Act/)
+- [ICRA 2024](https://arxiv.org/abs/2405.01402) **Learning Force Control for Legged Manipulation.** [🌐Website](https://tif-twirl-13.github.io/learning-compliance), [🌟Code](https://github.com/Improbable-AI/learning-compliance)
+- [RAL 2024](https://arxiv.org/abs/2412.03012) **Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator.** [🌐Website](https://clearlab-sustech.github.io/RFM_loco_mani/)
+- [CoRL 2024](https://arxiv.org/abs/2403.16967) **Visual Whole-Body Control for Legged Loco-Manipulation.** [🌐Website](https://wholebody-b1.github.io/), [🌟Code](https://github.com/Ericonaldo/visual_wholebody)
+
 
 ---
+
+## 🦿 Without Whole-Body Control
+- [arXiv 2025.01](https://arxiv.org/abs/2501.09905) **SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning.**
+- [arXiv 2025.02](https://arxiv.org/abs/2502.10894) **Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation.** [🌐Website](https://uan.csail.mit.edu/) 
+- [arXiv 2025.02](https://arxiv.org/abs/2502.01546) **Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning.**
+- [arXiv 2024.10](https://arxiv.org/abs/2410.06911) **Combining Planning and Diffusion for Mobility with Unknown Dynamics.** [🌐Website](https://yravan.github.io/plannerorderedpolicy/), [🌟Code](https://github.com/zt-yang/diffusion-ccsp)
+- [arXiv 2025.02](https://arxiv.org/abs/2502.05271) **RobotMover: Learning to Move Large Objects From Human Demonstrations.** [🌐Website](https://easypapersniper.github.io/projects/robotMover/robotMover.html)
+- 
 
 ## 🐾 Locomotion and Navigation
 - [RSS 2023] Learning Agile Locomotion for Quadruped with Arm Payloads.
