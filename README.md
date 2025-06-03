@@ -33,7 +33,6 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [arXiv 2024.09](https://arxiv.org/abs/2409.19920) **Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion.** [🌐Website](https://playful-doggybot.github.io/)
 - [arXiv 2024.03](https://arxiv.org/abs/2403.17367v4) **RoboDuet: Whole-body Legged Loco-Manipulation with Cross-Embodiment Deployment.** [🌐Website](https://locomanip-duet.github.io/), [🌟Code](https://github.com/locomanip-duet/RoboDuet)
 - [arXiv 2024.09](https://arxiv.org/abs/2409.16048) **Whole-body End-Effector Pose Tracking.** [🌐Website](https://leggedrobotics.github.io/wholebody-pose-control/)
-- [ECCV 2024](https://arxiv.org/abs/2405.01527) **Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation.** [🌐Website](https://homangab.github.io/track2act/), [🌟Code](https://github.com/homangab/Track-2-Act/)
 - [ICRA 2024](https://arxiv.org/abs/2405.01402) **Learning Force Control for Legged Manipulation.** [🌐Website](https://tif-twirl-13.github.io/learning-compliance), [🌟Code](https://github.com/Improbable-AI/learning-compliance)
 - [RAL 2024](https://arxiv.org/abs/2412.03012) **Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator.** [🌐Website](https://clearlab-sustech.github.io/RFM_loco_mani/)
 - [CoRL 2024](https://arxiv.org/abs/2403.16967) **Visual Whole-Body Control for Legged Loco-Manipulation.** [🌐Website](https://wholebody-b1.github.io/), [🌟Code](https://github.com/Ericonaldo/visual_wholebody)
@@ -47,7 +46,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01546) **Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning.**
 - [arXiv 2024.10](https://arxiv.org/abs/2410.06911) **Combining Planning and Diffusion for Mobility with Unknown Dynamics.** [🌐Website](https://yravan.github.io/plannerorderedpolicy/), [🌟Code](https://github.com/zt-yang/diffusion-ccsp)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.05271) **RobotMover: Learning to Move Large Objects From Human Demonstrations.** [🌐Website](https://easypapersniper.github.io/projects/robotMover/robotMover.html)
-- 
+- [ECCV 2024](https://arxiv.org/abs/2405.01527) **Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation.** [🌐Website](https://homangab.github.io/track2act/), [🌟Code](https://github.com/homangab/Track-2-Act/)
 
 ## 🐾 Locomotion and Navigation
 - [RSS 2023] Learning Agile Locomotion for Quadruped with Arm Payloads.
