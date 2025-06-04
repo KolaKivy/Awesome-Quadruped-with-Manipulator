@@ -39,6 +39,8 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [arXiv 2024.10](https://arxiv.org/pdf/2410.05681) **Whole-Body Dynamic Throwing with Legged Manipulators.** 
 - [ICRA 2024](https://arxiv.org/abs/2311.00112) **Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects.** 
 - [Autonomous Robots 2023](https://arxiv.org/abs/2203.01446) **RoLoMa: Robust Loco-Manipulation  for Quadruped Robots with Arms.**
+- [arXiv 2024.07](https://arxiv.org/abs/2407.10420) **Learning Rapid Turning, Aerial Reorientation, and Balancing using Manipulator as a Tail.** 
+- [CoRL 2022](https://arxiv.org/abs/2210.10044) **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion.** [🌐Website](https://manipulation-locomotion.github.io/), [🌟Code](https://github.com/MarkFzp/Deep-Whole-Body-Control)
 
 ---
 
@@ -58,7 +60,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 
 
-## 🐾 Locomotion and Navigation
+<!-- ## 🐾 Locomotion and Navigation
 - [RSS 2023] Learning Agile Locomotion for Quadruped with Arm Payloads.
 - [NeurIPS 2022] Decoupling Base and Arm Dynamics for Stable Terrain Traversal.
 
@@ -108,7 +110,7 @@ We welcome contributions! Please submit a pull request with:
 - Open-source code link (if available)
 - Indicate if real robot experiments were performed
 
----
+--- -->
 
 ## 📜 License
 MIT License
