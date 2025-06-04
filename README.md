@@ -36,7 +36,9 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [ICRA 2024](https://arxiv.org/abs/2405.01402) **Learning Force Control for Legged Manipulation.** [🌐Website](https://tif-twirl-13.github.io/learning-compliance), [🌟Code](https://github.com/Improbable-AI/learning-compliance)
 - [RAL 2024](https://arxiv.org/abs/2412.03012) **Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator.** [🌐Website](https://clearlab-sustech.github.io/RFM_loco_mani/)
 - [CoRL 2024](https://arxiv.org/abs/2403.16967) **Visual Whole-Body Control for Legged Loco-Manipulation.** [🌐Website](https://wholebody-b1.github.io/), [🌟Code](https://github.com/Ericonaldo/visual_wholebody)
-
+- [arXiv 2024.10](https://arxiv.org/pdf/2410.05681) **Whole-Body Dynamic Throwing with Legged Manipulators.** 
+- [ICRA 2024](https://arxiv.org/abs/2311.00112) **Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects.** 
+- [Autonomous Robots 2023](https://arxiv.org/abs/2203.01446) **RoLoMa: Robust Loco-Manipulation  for Quadruped Robots with Arms.**
 
 ---
 
@@ -47,6 +49,14 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [arXiv 2024.10](https://arxiv.org/abs/2410.06911) **Combining Planning and Diffusion for Mobility with Unknown Dynamics.** [🌐Website](https://yravan.github.io/plannerorderedpolicy/), [🌟Code](https://github.com/zt-yang/diffusion-ccsp)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.05271) **RobotMover: Learning to Move Large Objects From Human Demonstrations.** [🌐Website](https://easypapersniper.github.io/projects/robotMover/robotMover.html)
 - [ECCV 2024](https://arxiv.org/abs/2405.01527) **Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation.** [🌐Website](https://homangab.github.io/track2act/), [🌟Code](https://github.com/homangab/Track-2-Act/)
+- [arXiv 2024.03](https://arxiv.org/pdf/2403.07563) **Learning Generalizable Feature Fields for Mobile Manipulation.** [🌐Website](https://geff-b1.github.io/)
+- [arXiv 2024.11](https://arxiv.org/pdf/2411.15131) **WildLMa: Long Horizon Loco-Manipulation in the Wild.** [🌐Website](https://wildlma.github.io/)
+- [ICRA 2025](https://arxiv.org/pdf/2402.11498) **Verifiably Following Complex Robot Instructions with Foundation Models.** [🌐Website](https://robotlimp.github.io/), [🌟Code](https://github.com/benedictquartey/robotlimp)
+- [CoRL 2024](https://continual-mobile-manip.github.io/) **Continuously Improving Mobile Manipulation with Autonomous Real-World RL.** [🌐Website](https://geff-b1.github.io/)
+- [RAL 2023](https://arxiv.org/abs/2304.00410) **Asc: Adaptive skill coordination for robotic mobile manipulation.** [🌐Website](https://adaptiveskillcoordination.github.io/)
+- [ICRA 2024](https://arxiv.org/abs/2309.15459) **GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion.** [🌐Website](https://pku-epic.github.io/GAMMA/), [🌟Code](https://github.com/user432/gamma)
+
+
 
 ## 🐾 Locomotion and Navigation
 - [RSS 2023] Learning Agile Locomotion for Quadruped with Arm Payloads.
