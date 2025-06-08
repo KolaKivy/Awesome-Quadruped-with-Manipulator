@@ -12,17 +12,18 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## 📚 Table of Contents
 
-### Paper List
-- [With Whole-Body Control (WBC)](#🦿-with-whole-body-control-wbc)
-- [Without Whole-Body Control](#🦿-without-whole-body-control)
+### [Paper List](#paper-list)
+- [With Whole-Body Control (WBC)](#with-whole-body-control-wbc)
+- [Without Whole-Body Control](#without-whole-body-control)
 
-### Embodiments
+### [Embodiments](#embodiments)
 
-### Interesting Videos
+### [Interesting Videos](#interesting-videos)
 
 ---
 
-## 🦿 With Whole-Body Control (WBC)
+## Paper List
+### With Whole-Body Control (WBC)
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
 - [arXiv 2025.05](https://arxiv.org/abs/2505.20829) **Learning Unified Force and Position Control for Legged Loco-Manipulation.** [🌐Website](https://unified-force.github.io/) 
 - [ICRA 2025](https://arxiv.org/abs/2411.06782) **## QuadWBG: Generalizable Quadrupedal Whole-Body Grasping.** [🌐Website](https://quadwbg.github.io/)
@@ -42,7 +43,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ---
 
-## 🦿 Without Whole-Body Control
+### Without Whole-Body Control
 - [arXiv 2025.01](https://arxiv.org/abs/2501.09905) **SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning.**
 - [arXiv 2025.02](https://arxiv.org/abs/2502.10894) **Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation.** [🌐Website](https://uan.csail.mit.edu/) 
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01546) **Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning.**
