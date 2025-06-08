@@ -71,9 +71,9 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 ## Embodiments
 
 ## Interesting Videos
-[Spot's Got an Arm!](https://www.youtube.com/watch?v=6Zbhvaac68Y&t=1s)
-[Unitree Robotics AlienGo + Z1 for Fire Rescue](https://www.youtube.com/watch?v=7CVwGY65In8)
-[Hey Buddy, Can You Give Me a Hand?](https://www.youtube.com/watch?v=fUyU3lKzoio)
+- [Spot's Got an Arm!](https://www.youtube.com/watch?v=6Zbhvaac68Y&t=1s)
+- [Unitree Robotics AlienGo + Z1 for Fire Rescue](https://www.youtube.com/watch?v=7CVwGY65In8)
+- [Hey Buddy, Can You Give Me a Hand?](https://www.youtube.com/watch?v=fUyU3lKzoio)
 
 ## 📜 License
 MIT License
