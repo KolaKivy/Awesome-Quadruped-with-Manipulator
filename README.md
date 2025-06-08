@@ -9,13 +9,13 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## 📚 Table of Contents
 
-### [Paper List](#paper-list)
+### Paper List
 - [With Whole-Body Control (WBC)](#with-whole-body-control-wbc)
 - [Without Whole-Body Control](#without-whole-body-control)
 
-### [Embodiments](#embodiments)
+### Embodiments
 
-### [Interesting Videos](#interesting-videos)
+### Interesting Videos
 
 ---
 
