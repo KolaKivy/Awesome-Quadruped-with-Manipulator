@@ -16,9 +16,9 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [With Whole-Body Control (WBC)](#🦿-with-whole-body-control-wbc)
 - [Without Whole-Body Control](#🦿-without-whole-body-control)
 
-### [Embodiments](#embodiments)
+### Embodiments
 
-### [Interesting Videos](#interesting-videos)
+### Interesting Videos
 
 ---
 
