@@ -24,6 +24,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
 - [arXiv 2025.05](https://arxiv.org/abs/2505.20829) **Learning Unified Force and Position Control for Legged Loco-Manipulation.** [🌐Website](https://unified-force.github.io/) 
 - [ICRA 2025](https://arxiv.org/abs/2411.06782) **## QuadWBG: Generalizable Quadrupedal Whole-Body Grasping.** [🌐Website](https://quadwbg.github.io/)
+- [arXiv 2025.05](https://arxiv.org/abs/2503.01474) **Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller.** 
 - [arXiv 2024.10](https://arxiv.org/abs/2410.00231) **Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models.** [🌐Website](https://helpful-doggybot.github.io/), [🌟Code](https://github.com/WooQi57/Helpful-Doggybot)
 - [arXiv 2024.10](https://arxiv.org/pdf/2410.05681) **Whole-Body Dynamic Throwing with Legged Manipulators.** 
 - [arXiv 2024.09](https://arxiv.org/abs/2409.19920) **Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion.** [🌐Website](https://playful-doggybot.github.io/)
