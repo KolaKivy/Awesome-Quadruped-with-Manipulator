@@ -21,6 +21,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## Paper List
 ### With Whole-Body Control (WBC)
+- [arXiv 2025.06](https://arxiv.org/abs/2506.16986) **Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleratio.** 
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
 - [arXiv 2025.05](https://arxiv.org/abs/2505.20829) **Learning Unified Force and Position Control for Legged Loco-Manipulation.** [🌐Website](https://unified-force.github.io/) 
 - [ICRA 2025](https://arxiv.org/abs/2411.06782) **## QuadWBG: Generalizable Quadrupedal Whole-Body Grasping.** [🌐Website](https://quadwbg.github.io/)
@@ -57,6 +58,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [CoRL 2024](https://arxiv.org/abs/2408.01258) **Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation.** [🌐Website](https://jacta-manipulation.github.io/)
 - [CoRL 2024](https://continual-mobile-manip.github.io/) **Continuously Improving Mobile Manipulation with Autonomous Real-World RL.** [🌐Website](https://geff-b1.github.io/)
 - [ICRA 2024](https://arxiv.org/abs/2309.15459) **GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion.** [🌐Website](https://pku-epic.github.io/GAMMA/), [🌟Code](https://github.com/user432/gamma)
+- [ICRA 2024](https://kl-research.github.io/files/ICRA2024_Kai_v2.pdf) **Learning to Catch Reactive Objects with a Behavior Predictor** [🌐Website](https://kl-research.github.io/dyncatch)
 - [arXiv 2024.03](https://arxiv.org/pdf/2403.07563) **Learning Generalizable Feature Fields for Mobile Manipulation.** [🌐Website](https://geff-b1.github.io/)
 - [IROS 2024](https://arxiv.org/abs/2403.19862) **PACC: A Passive-Arm Approach for High-Payload Collaborative Carrying with Quadruped Robots Using Model Predictive Control.**
 - [Science Robotics 2023](https://arxiv.org/abs/2308.09179) **Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation.** 
@@ -70,6 +72,13 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [IROS 2021](https://arxiv.org/abs/2108.07658) **Passivity-based control for haptic teleoperation of a legged manipulator in presence of time-delays.**
 
 ## Embodiments
+| Name        | Robot Base      | Arm           | Formats |
+|-------------|------------------|----------------|---------|
+| **Go2-Arx**     | Go2             | Arx-L5-Pro     | [URDF](./Embodiments/Go2-Arx) |
+| **B1-Z1**       | Unitree B1      | Unitree Z1     | [URDF](./Embodiments/B1-Z1) |
+| **Aliengo-Z1**  | Unitree Aliengo | Unitree Z1     | [URDF](./Embodiments/Aliengo-Z1) |
+| **widowGo1**    | Go1             | WidowX         | [URDF](./Embodiments/widowGo1) |
+| **arx5p2Go1**   | Go1             | Arx-5P2        | [URDF](./Embodiments/arx5p2Go1) |
 
 ## Interesting Videos
 - [Spot's Got an Arm!](https://www.youtube.com/watch?v=6Zbhvaac68Y&t=1s)
