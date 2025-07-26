@@ -74,11 +74,11 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 ## Embodiments
 | Name        | Robot Base      | Arm           | Formats |
 |-------------|------------------|----------------|---------|
-| **Go2-Arx**     | Go2             | Arx-L5-Pro     | [URDF](./Embodiments/Go2-Arx) |
-| **B1-Z1**       | Unitree B1      | Unitree Z1     | [URDF](./Embodiments/B1-Z1) |
-| **Aliengo-Z1**  | Unitree Aliengo | Unitree Z1     | [URDF](./Embodiments/Aliengo-Z1) |
+| **Go2-Arx**     | Go2             | Arx-L5-Pro     | [URDF](./Embodiments/go2_arx) |
 | **widowGo1**    | Go1             | WidowX         | [URDF](./Embodiments/widowGo1) |
 | **arx5p2Go1**   | Go1             | Arx-5P2        | [URDF](./Embodiments/arx5p2Go1) |
+| **B1-Z1**       | Unitree B1      | Unitree Z1     | [URDF](./Embodiments/B1_Z1) |
+| **Aliengo-Z1**  | Unitree Aliengo | Unitree Z1     | [URDF](./Embodiments/aliengoZ1) |
 
 ## Interesting Videos
 - [Spot's Got an Arm!](https://www.youtube.com/watch?v=6Zbhvaac68Y&t=1s)
