@@ -1,5 +1,7 @@
 # Awesome-Quadruped-with-Manipulator [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
 
+<img src="images/Spot.png" alt="Legged-Manipulator" width="400">
+
 ## 🦾 Basic Info
 This repository collects **academic papers and open-source projects** related to **quadruped robots equipped with manipulators (arms)**. The entries are categorized by **task type**, such as manipulation, locomotion, and whole-body control.
 
